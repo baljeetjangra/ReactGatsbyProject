@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: "Full Stack Gatsby Project",
+    author: "Baljeet Jangra",
+  },
   plugins: ["gatsby-plugin-sass"],
 }
